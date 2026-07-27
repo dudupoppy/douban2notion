@@ -3,6 +3,13 @@
 
 本项目通过Github Action每天定时同步豆瓣电影和读书到Notion。
 
+## NotionHub 免费 Runner
+
+NotionHub 插件使用固定 tag `notionhub-free-v1.0.0` 运行本项目。免费
+Runner 只同步电影和图书，运行期间直接访问豆瓣与 Notion，不请求
+NotionHub Worker。封面使用原始外链，热力图文件保存在用户自己的公开
+Runner 仓库。
+
 * 豆瓣电影预览效果：https://douban-movie.malinkang.com/
 * 豆瓣图书预览效果：https://douban-book.malinkang.com/
 

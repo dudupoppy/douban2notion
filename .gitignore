@@ -1,3 +1,10 @@
 douban2notion/__pycache__/
 .env
-a
+__pycache__/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+cover/
+OUT_FOLDER/
+.notionhub-artifacts/
